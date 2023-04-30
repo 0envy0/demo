@@ -1,0 +1,20 @@
+
+.app .app-wrapper .app-content .container-xl .row {
+    width: 1000px;
+    box-shadow: 2px 3px 3px  rgba(34, 25, 25, 0.2);
+    margin: 0 auto;
+    margin-top: -20px;
+    /* background-color: blue; */
+}
+
+.app .app-wrapper .app-content .container-xl .row .blast_form{
+    width: 800px;
+    /* background-color: aqua; */
+    margin:  0 auto;
+}
+
+ 
+/* .app .app-wrapper .app-content .container-xl .row .external_link {
+    
+
+} */
